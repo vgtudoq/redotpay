@@ -1,7 +1,8 @@
 # 小红卡RedotPay：一种支持加密货币充值的虚拟信用卡
 
-这几天我体验了一下来自香港的小红卡（RedotPay），本文将分享我的开卡过程和使用体验。
 ![image](https://github.com/user-attachments/assets/7e26fd9a-7aa7-42fe-9175-37cfab75a336)
+
+这几天我体验了一下来自香港的小红卡（RedotPay），本文将分享我的开卡过程和使用体验。
 
 ## 一、优缺点解析
 
